@@ -1,21 +1,7 @@
-<<<<<<< HEAD
-# wahi
+# Wahi - Everything related to Islamic revelation
 
-A new Flutter project.
+Everything related to prophetic hadiths in one application
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Wahi
-An application that focuses on everything related to Islamic law.
->>>>>>> 198e74f65110253aebf50c2c029e6b23f7fabebb
+## Wahi Featuers
+1 -  Reliable and explained prophetic traditions
+2 -  Save Time and trusted source
